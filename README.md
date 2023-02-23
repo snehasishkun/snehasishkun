@@ -21,4 +21,4 @@ I am a full stack web developer, gamer and a weeb. I am from India and currently
 
 ### Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehasishkun&show_icons=true&theme=transparent)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehasishkun&show_icons=true&theme=transparent)](https://discord.gg/GdCjHfXDvs)
