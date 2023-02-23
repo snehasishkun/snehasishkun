@@ -18,3 +18,7 @@ I am a full stack web developer, gamer and a weeb. I am from India and currently
 [![snehasishkun#2190](https://lanyard.cnrad.dev/api/741292272661954651)](https://discord.gg/GdCjHfXDvs)
 
 ---
+
+### Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehasishkun&show_icons=true&theme=github_dark)
