@@ -27,4 +27,12 @@ I am a full stack web developer, gamer and a weeb. I am from India and currently
 
 ### Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=snehasishkun&show_icons=true&theme=transparent&layout=compact&langs_count=6)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=snehasishkun&show_icons=true&theme=transparent&layout=compact&langs_count=6)](https://github.com/snehasishkun)
+
+---
+
+### Important Repositories
+
+[![Pin 1](https://github-readme-stats.vercel.app/api/pin/?username=snehasishcodes&repo=cloudinary-multer-cdn)](https://github.com/snehasishkun/cloudinary-multer-cdn)
+
+[![Pin 2](https://github-readme-stats.vercel.app/api/pin/?username=snehasishcodes&repo=snehasishkun)](https://github.com/snehasishkun/snehasishkun)
