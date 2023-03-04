@@ -19,6 +19,11 @@ I am a full stack web developer, gamer and a weeb. I am from India and currently
 
 ---
 
+### Spotify
+[![Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31momuam5cf3a6gdw6r47sdcs55q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31momuam5cf3a6gdw6r47sdcs55q&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=true)]])](https://open.spotify.com/user/31momuam5cf3a6gdw6r47sdcs55q)
+
+---
+
 ### Statistics
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehasishkun&show_icons=true&theme=transparent)](https://github.com/snehasishkun)
