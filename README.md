@@ -20,7 +20,12 @@ I am a full stack web developer, gamer and a weeb. I am from India and currently
 ---
 
 ### Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31momuam5cf3a6gdw6r47sdcs55q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31momuam5cf3a6gdw6r47sdcs55q&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=true))](https://open.spotify.com/user/31momuam5cf3a6gdw6r47sdcs55q)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31momuam5cf3a6gdw6r47sdcs55q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31momuam5cf3a6gdw6r47sdcs55q&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=true)](https://open.spotify.com/user/31momuam5cf3a6gdw6r47sdcs55q)
+
+---
+
+### Coding Stats
+[![Coding](https://wakatime.com/share/@22430477-f60f-4af5-bb01-103c4714180a/0262b549-562d-4070-bf7b-a107aa04190e.svg)](https://wakatime.com)
 
 ---
 
